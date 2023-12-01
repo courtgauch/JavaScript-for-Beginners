@@ -1,3 +1,3 @@
 # JavaScript-for-Beginners
 
-website http://127.0.0.1:5500/index.html?
+website created from course http://127.0.0.1:5500/index.html
